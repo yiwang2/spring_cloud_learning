@@ -5,4 +5,5 @@ folder eurekaservicereg
 - folder ribbonresttemplate
 - folder ribbonhystrix has circuit breaker hystrix added
 ## Register a simple service at Eureka and setup a consumer with Feign
-folder feign
+- folder feign
+- folder feincircuitbreaker has circuit breaker hystrix added
