@@ -7,3 +7,6 @@ folder eurekaservicereg
 ## Register a simple service at Eureka and setup a consumer with Feign
 - folder feign
 - folder feincircuitbreaker has circuit breaker hystrix added
+## server config
+- folder configserverandclient
+- folder serverconfig is used as config property repo
