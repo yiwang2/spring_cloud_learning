@@ -10,3 +10,5 @@ folder eurekaservicereg
 ## server config
 - folder configserverandclient
 - folder serverconfig is used as config property repo
+## service and consumer are using server config
+folder spring-cloud-learning-lb-plus-config
