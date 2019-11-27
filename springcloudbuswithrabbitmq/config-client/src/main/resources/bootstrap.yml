@@ -1,0 +1,36 @@
+# must be bootstrap
+spring:
+  application:
+    name: config-client
+  cloud:
+    bus:
+      enabled: true
+      trace:
+        enabled: true
+    config:
+      label: master
+      profile: dev
+      discovery:
+        enabled: true
+        service-id: config-server    
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+   
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
+
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8766
+      
