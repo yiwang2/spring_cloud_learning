@@ -7,10 +7,13 @@ folder eurekaservicereg
 ## Register a simple service at Eureka and setup a consumer with Feign
 - folder feign
 - folder feincircuitbreaker has circuit breaker hystrix added
-## server config
+## Server config
 - folder configserverandclient
 - folder serverconfig is used as config property repo
-## service and consumer are using server config
+## Service and consumer are using server config
 folder spring-cloud-learning-lb-plus-config
-## cloud bus with rabbit mq
+## Cloud bus with rabbit mq
 folder springcloudbuswithrabbitmq
+## Spring + sleuth
+- folder spring-cloud-learning-sleuth
+- remember java -jar zipkin-server-2.10.1-exec.jar
