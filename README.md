@@ -17,3 +17,8 @@ folder springcloudbuswithrabbitmq
 ## Spring + sleuth
 - folder spring-cloud-learning-sleuth
 - remember java -jar zipkin-server-2.10.1-exec.jar
+## Multi Eureka server
+- folder spring-cloud-learning-multi-eureka
+- 2 peers, peer1 and peer2
+- java -jar eureka-server-0.0.1-SNAPSHOT.jar - -spring.profiles.active=peer1 and java -jar eureka-server-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer2
+- check eureka server application yml
