@@ -22,3 +22,5 @@ folder springcloudbuswithrabbitmq
 - 2 peers, peer1 and peer2
 - java -jar eureka-server-0.0.1-SNAPSHOT.jar - -spring.profiles.active=peer1 and java -jar eureka-server-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer2
 - check eureka server application yml
+## Hystrix dashboard
+folder spring-cloud-learning-hystrix-dashboard
