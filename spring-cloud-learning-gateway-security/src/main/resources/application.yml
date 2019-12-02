@@ -1,0 +1,16 @@
+server:
+  port: 8762
+  
+spring:
+  security:
+    user:
+      name: admin
+      password: admin
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        enabled: true
+        service-name: spring-gateway-security
+        instance-id: spring-gateway-security:${server.port}
