@@ -26,3 +26,5 @@ folder springcloudbuswithrabbitmq
 folder spring-cloud-learning-hystrix-dashboard
 ## Hystrix + Turbine dashboard
 folder spring-cloud-learning-hystrix-turbine
+## Spring gateway
+- spring-cloud-learning-gateway
