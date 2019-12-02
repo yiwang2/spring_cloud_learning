@@ -24,3 +24,5 @@ folder springcloudbuswithrabbitmq
 - check eureka server application yml
 ## Hystrix dashboard
 folder spring-cloud-learning-hystrix-dashboard
+## Hystrix + Turbine dashboard
+folder spring-cloud-learning-hystrix-turbine
