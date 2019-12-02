@@ -21,3 +21,5 @@ public class ServiceHiApplication
     	SpringApplication.run( ServiceHiApplication.class, args );
     }
 }
+
+//http://localhost:8763/hystrix
