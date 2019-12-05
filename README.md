@@ -29,6 +29,7 @@ folder spring-cloud-learning-hystrix-turbine
 ## Spring gateway
 - spring-cloud-learning-gateway
 - spring-cloud-learning-gateway-predicate
+- spring-cloud-learning-gateway-filter
 ## Spring security
 - folder spring-cloud-learning-gateway-security
 - running under consul by command:  consul agent -dev -node machine
