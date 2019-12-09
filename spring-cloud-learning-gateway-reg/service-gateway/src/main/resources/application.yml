@@ -1,0 +1,28 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: sc-gateway-service
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: false  ##true if there is routes
+          lowerCaseServiceId: true
+      routes:
+      - id: service-hi
+        uri: lb://SERVICE-HI
+        predicates:
+          - Path=/service-say-hi/**
+        filters:
+          - StripPrefix=1
+          
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+      
+logging:
+  level:
+    org.springframework.cloud.gateway: debug
