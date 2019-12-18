@@ -17,6 +17,8 @@ folder springcloudbuswithrabbitmq
 ## Spring + sleuth
 - folder spring-cloud-learning-sleuth
 - remember java -jar zipkin-server-2.10.1-exec.jar
+## spring cloud 1+ zpkin + zuul
+- folder spring-cloud-learning-cloud-sleuth
 ## Multi Eureka server
 - folder spring-cloud-learning-multi-eureka
 - 2 peers, peer1 and peer2
