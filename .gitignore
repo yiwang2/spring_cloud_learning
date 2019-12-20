@@ -3,3 +3,14 @@ eurekaservicereg/spring-cloud-learning-eurka-service-reg/.DS_Store
 .DS_Store
 .DS_Store
 .DS_Store
+.DS_Store
+.DS_Store
+spring-cloud-learning-auth2/.classpath
+spring-cloud-learning-auth2/.project
+*.prefs
+spring-cloud-learning-auth2/auth-service/.classpath
+spring-cloud-learning-auth2/auth-service/.project
+spring-cloud-learning-auth2/service-hi/.classpath
+spring-cloud-learning-auth2/service-hi/.project
+spring-cloud-learning-auth2/eureka-server/.classpath
+spring-cloud-learning-auth2/eureka-server/.project
