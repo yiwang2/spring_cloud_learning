@@ -14,3 +14,8 @@ spring-cloud-learning-auth2/service-hi/.classpath
 spring-cloud-learning-auth2/service-hi/.project
 spring-cloud-learning-auth2/eureka-server/.classpath
 spring-cloud-learning-auth2/eureka-server/.project
+.DS_Store
+spring-cloud-learning-auth2-jwt/.classpath
+spring-cloud-learning-auth2-jwt/.project
+spring-cloud-learning-auth2-jwt/eureka-server/.classpath
+spring-cloud-learning-auth2-jwt/eureka-server/.project
