@@ -39,3 +39,6 @@ folder spring-cloud-learning-hystrix-turbine
 - running under consul by command:  consul agent -dev -node machine
 - running example:  POST http://http://localhost:8762/auth/login body: application/x-www-form-urlencoded with username and password. password is pass +salt username by md5 encoding
 - test api GET api/demo
+
+## Spring Oauth2
+- folder spring-cloud-learning-auth2 // refer from https://github.com/forezp/springcloud-book-greenwich
