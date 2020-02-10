@@ -42,3 +42,4 @@ folder spring-cloud-learning-hystrix-turbine
 
 ## Spring Oauth2
 - folder spring-cloud-learning-auth2 // refer from https://github.com/forezp/springcloud-book-greenwich
+- folder spring-cloud-learning-auth2-jwt
