@@ -19,3 +19,15 @@ spring-cloud-learning-auth2-jwt/.classpath
 spring-cloud-learning-auth2-jwt/.project
 spring-cloud-learning-auth2-jwt/eureka-server/.classpath
 spring-cloud-learning-auth2-jwt/eureka-server/.project
+spring-cloud-another-gatway/eureka-server/.project
+spring-cloud-another-gatway/eureka-server/.classpath
+spring-cloud-another-gatway/eureka-server/src/test/java/org/eureka/server/AppTest.java
+spring-cloud-another-gatway/hello-service-consumer/.classpath
+spring-cloud-another-gatway/hello-service-consumer/.project
+spring-cloud-another-gatway/hello-service-gateway/.classpath
+spring-cloud-another-gatway/hello-service-gateway/.project
+spring-cloud-another-gatway/hello-service/.classpath
+spring-cloud-another-gatway/hello-service/.project
+spring-cloud-another-gatway/src/test/java/com/spring/learning/gateway/docker/AppTest.java
+spring-cloud-another-gatway/hello-service/src/test/java/org/hello/service/AppTest.java
+spring-cloud-another-gatway/hello-service-consumer/src/test/java/org/hello/service/consumer/AppTest.java
